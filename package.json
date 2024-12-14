@@ -17,7 +17,7 @@
   "author": "CatDeveloper",
   "license": "MIT",
   "dependencies": {
-    "@google/generative-ai": "^0.4.1",
+    "@google/generative-ai": "^0.21.0",
     "body-parser": "^1.20.2",
     "dotenv": "^16.4.1",
     "express": "^4.18.2"
