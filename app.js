@@ -4,7 +4,7 @@ const bodyParser = require('body-parser');
 const { GoogleGenerativeAI } = require("@google/generative-ai");
 
 const app = express();
-const port = process.env.PORT || 3000;
+const port = process.env.PORT || 9060;
 
 app.use(bodyParser.json()); // Obsługa JSON
 
