@@ -1,0 +1,25 @@
+{
+  "name": "ai-chat-backend",
+  "version": "1.0.0",
+  "description": "Backend for AI-powered chatbot",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "ai",
+    "chatbot",
+    "node.js",
+    "express",
+      "google-ai",
+      "embedding"
+  ],
+  "author": "CatDeveloper",
+  "license": "MIT",
+  "dependencies": {
+    "@google/generative-ai": "^0.4.1",
+    "body-parser": "^1.20.2",
+    "dotenv": "^16.4.1",
+    "express": "^4.18.2"
+  }
+}
